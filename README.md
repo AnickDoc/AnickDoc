@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/anickdoc/" target="_blank">Anatolii</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">About me</h3>
+<p>I have been looking for a job for a long time and decided to enter IT. I develop personal skills and constantly strive to grow professionally. I like to plan and improve the quality of my work. At this stage, I am actively learning JavaScript.</p>
 <!--
 **AnickDoc/AnickDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
